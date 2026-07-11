@@ -4,13 +4,13 @@ class Solution {
         System.arraycopy(nums1,0,merged,0,nums1.length);
         System.arraycopy(nums2,0,merged,nums1.length,nums2.length);
         double med=0;
-        int n=merged.length;
+        
         Arrays.sort(merged);
-        if (n%2==0){
-            med=(merged[n/2]+merged[(n/2)-1])/2.0;
+        if (merged.length%2==0){
+            med=(merged[merged.length/2]+merged[(merged.length/2)-1])/2.0;
         }
         else{
-            med=merged[(int)n/2];
+            med=merged[(int)merged.length/2];
         }
         return med;
     }
