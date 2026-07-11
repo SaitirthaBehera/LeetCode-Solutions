@@ -30,4 +30,5 @@ Welcome to my repository for competitive programming and data structures practic
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
