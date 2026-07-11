@@ -22,6 +22,7 @@ Welcome to my repository for competitive programming and data structures practic
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,12 @@ Welcome to my repository for competitive programming and data structures practic
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
