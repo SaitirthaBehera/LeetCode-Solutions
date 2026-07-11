@@ -1,12 +1,18 @@
 # ⚡ LeetCode Solutions
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Syncing-Automated-blue?style=for-the-badge&logo=github" />
+  <a href="https://leetcode.com/u/Saitirtha_Behera/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/saitirtha-behera/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Syncing-Automated-blue?style=for-the-badge&logo=github" alt="Automated Sync" />
 </p>
 
 Welcome to my repository for competitive programming and data structures practice. This repository dynamically tracks and logs my successful problem-solving journey on LeetCode using the [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) extension.
+
+---
 
 ---
 
