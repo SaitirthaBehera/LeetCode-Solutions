@@ -23,11 +23,13 @@ Welcome to my repository for competitive programming and data structures practic
 | ------- |
 | [0001-two-sum](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1331-rank-transform-of-an-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -49,4 +51,8 @@ Welcome to my repository for competitive programming and data structures practic
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
