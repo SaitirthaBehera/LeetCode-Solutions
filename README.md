@@ -40,6 +40,7 @@ Welcome to my repository for competitive programming and data structures practic
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,4 +59,12 @@ Welcome to my repository for competitive programming and data structures practic
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
