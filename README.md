@@ -36,6 +36,7 @@ Welcome to my repository for competitive programming and data structures practic
 | ------- |
 | [0007-reverse-integer](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Welcome to my repository for competitive programming and data structures practic
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
