@@ -36,6 +36,7 @@ Welcome to my repository for competitive programming and data structures practic
 | ------- |
 | [0007-reverse-integer](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
@@ -69,4 +70,5 @@ Welcome to my repository for competitive programming and data structures practic
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
