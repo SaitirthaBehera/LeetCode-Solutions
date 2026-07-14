@@ -23,6 +23,7 @@ Welcome to my repository for competitive programming and data structures practic
 | ------- |
 | [0001-two-sum](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -53,6 +54,7 @@ Welcome to my repository for competitive programming and data structures practic
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
