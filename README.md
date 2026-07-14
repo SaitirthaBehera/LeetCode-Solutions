@@ -24,6 +24,7 @@ Welcome to my repository for competitive programming and data structures practic
 | [0001-two-sum](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -54,11 +55,13 @@ Welcome to my repository for competitive programming and data structures practic
 | [0004-median-of-two-sorted-arrays](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +80,5 @@ Welcome to my repository for competitive programming and data structures practic
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
