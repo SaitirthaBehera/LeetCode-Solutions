@@ -26,6 +26,7 @@ Welcome to my repository for competitive programming and data structures practic
 | [0033-search-in-rotated-sorted-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0217-contains-duplicate](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -34,6 +35,7 @@ Welcome to my repository for competitive programming and data structures practic
 | ------- |
 | [0001-two-sum](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
@@ -69,6 +71,7 @@ Welcome to my repository for competitive programming and data structures practic
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaitirthaBehera/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
